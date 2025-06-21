@@ -17,8 +17,8 @@ Built with *HTML, CSS, and JavaScript* — no frameworks.
 - JavaScript (Vanilla)
 - Browser LocalStorage
 
-## 📷 Screenshot (optional)
-Add screenshot here if you want
+## 📷 Screenshot 
+![App Screenshot](./screenshot.png.png)
 
 ## 🔗 GitHub Repository
 [https://github.com/Eitishkumar23/dsa-progress-tracker](https://github.com/Eitishkumar23/dsa-progress-tracker)
